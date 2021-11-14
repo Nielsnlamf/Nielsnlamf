@@ -27,7 +27,6 @@ Apart from all of the projects I've started and dropped, I've recently been work
 ---
 
 ### <span style="color:lightgreen"> My projects </span>
-<div class="grid-container">
-<img id="1" class="grid-item" src="https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=Lucy" href="https://nielselstrodt.nl" style="margin:10px; "><img id="1" class="grid-item" src="https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=CracksmithCar" href="https://github.com/nielsnlamf/cracksmithcar" style="margin:10px;">
-</div>
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
