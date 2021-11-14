@@ -27,6 +27,5 @@ Apart from all of the projects I've started and dropped, I've recently been work
 ---
 
 ### <span style="color:lightgreen"> My projects </span>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=CracksmithCar)](https://github.com/nielsnlamf/cracksmithcar)
-[![Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=Lucy)](https://github.com/nielsnlamf/lucy)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=Lucy" href="https://nielselstrodt.nl">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=CracksmithCar" href="https://github.com/nielsnlamf/cracksmithcar">
