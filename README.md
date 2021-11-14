@@ -28,3 +28,4 @@ Apart from all of the projects I've started and dropped, I've recently been work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=CracksmithCar)](https://github.com/nielsnlamf/cracksmithcar)
 [![Readme Card ](https://github-readme-stats.vercel.app/api/pin/?username=nielsnlamf&repo=Lucy)](https://github.com/nielsnlamf/lucy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nielsnlamf)](https://github.com/anuraghazra/github-readme-stats)
