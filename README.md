@@ -1,4 +1,4 @@
-### <span style="color:red">$ whoami > Nielsnlamf </span>
+### <span style="color:red">$ echo whoami > nielsnlamf.md </span>
 
 ---
 
