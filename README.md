@@ -1,6 +1,6 @@
 # <span style="color:red">$ echo whoami > nielsnlamf.md </span>
 
-<a href="t.me/nielsnlamf">
+<a href="https://t.me/nielsnlamf">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="nielselstrodt.nl">
 </a>
 <a href="discordapp.com/users/182452405764358144">
