@@ -1,4 +1,4 @@
-# <span style="color:red">$ echo whoami > nielsnlamf.md </span>
+# <span style="color:red">$ echo > nielsnlamf.md </span>
 
 <a href="https://t.me/nielsnlamf">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="nielselstrodt.nl">
@@ -6,8 +6,8 @@
 <a href="https://discordapp.com/users/182452405764358144">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-
----
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 
 ### <span style="color:lightgreen"> Background </span>
 My name is [ Niels Elstrodt ](https://nielselstrodt.nl), and I'm a sparetime developer for fun.
