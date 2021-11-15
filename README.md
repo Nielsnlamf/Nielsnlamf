@@ -16,7 +16,7 @@
 ---
 
 ### <span style="color:lightgreen"> Background </span>
-My name is [ Niels Elstrodt ](https://nielselstrodt.nl), and I'm a sparetime developer for fun.
+My name is [ Niels Elstrodt](https://nielselstrodt.nl), and I'm a sparetime developer for fun.
 I started out with some basic javascript development when I was around age 11, and over the years I've accumulated knowledge and skills on a plethora of topics.
 
 
