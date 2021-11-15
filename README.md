@@ -1,15 +1,15 @@
 # <span style="color:red">$ echo > nielsnlamf.md </span>
 
-<a href="https://t.me/nielsnlamf">
+<a href="https://t.me/nielsnlamf" style="text-decoration:none">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" href="nielselstrodt.nl">
 </a>
-<a href="https://discordapp.com/users/182452405764358144">
+<a href="https://discordapp.com/users/182452405764358144" style="text-decoration:none">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="#">
+<a href="#" style="text-decoration:none">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 </a>
-<a href="#">
+<a href="#" style="text-decoration:none">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </a>
 
