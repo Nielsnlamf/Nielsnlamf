@@ -33,6 +33,6 @@ Apart from all of the projects I've started and dropped, I've recently been work
 ---
 
 ### <span style="color:lightgreen"> My projects </span>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=nielsnlamf&repo=CracksmithCar&title_color=90EE90&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nielsnlamf/GeldAutomaat)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nielsnlamf&repo=lucy&title_color=90EE90&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nielsnlamf/fishim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=nielsnlamf&repo=GeldAutomaat&title_color=90EE90&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nielsnlamf/GeldAutomaat)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nielsnlamf&repo=fishim&title_color=90EE90&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/nielsnlamf/fishim)
 
